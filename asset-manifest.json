@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ghpages_react/static/css/main.1635e87c.chunk.css",
+    "main.js": "/ghpages_react/static/js/main.32cad321.chunk.js",
+    "main.js.map": "/ghpages_react/static/js/main.32cad321.chunk.js.map",
+    "runtime-main.js": "/ghpages_react/static/js/runtime-main.75a45b77.js",
+    "runtime-main.js.map": "/ghpages_react/static/js/runtime-main.75a45b77.js.map",
+    "static/js/2.0e2c74a1.chunk.js": "/ghpages_react/static/js/2.0e2c74a1.chunk.js",
+    "static/js/2.0e2c74a1.chunk.js.map": "/ghpages_react/static/js/2.0e2c74a1.chunk.js.map",
+    "static/js/3.2c1361df.chunk.js": "/ghpages_react/static/js/3.2c1361df.chunk.js",
+    "static/js/3.2c1361df.chunk.js.map": "/ghpages_react/static/js/3.2c1361df.chunk.js.map",
+    "index.html": "/ghpages_react/index.html",
+    "static/css/main.1635e87c.chunk.css.map": "/ghpages_react/static/css/main.1635e87c.chunk.css.map",
+    "static/js/2.0e2c74a1.chunk.js.LICENSE.txt": "/ghpages_react/static/js/2.0e2c74a1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ghpages_react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75a45b77.js",
+    "static/js/2.0e2c74a1.chunk.js",
+    "static/css/main.1635e87c.chunk.css",
+    "static/js/main.32cad321.chunk.js"
+  ]
+}
