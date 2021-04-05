@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+          My awesome GitHub Page running using React
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
